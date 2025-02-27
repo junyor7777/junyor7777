@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**junyor7777/junyor7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá! Eu sou [Sou Geraldo Junior] 👋  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desenvolvedor apaixonado por tecnologia  
+
+
+🚀 Trabalhando com [Programador Front End,atualmente estou aprendendo e criando projetos HTML.CSS e JavaScrios e react]  
+
+
+📫 Me encontre no [www.linkedin.com/in/geraldo-barbosa] [(62) 996730997] 
+
+
